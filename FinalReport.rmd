@@ -92,3 +92,5 @@ The p-value is 000000.1242 from chisq test shows that the vaccine is effective i
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I conclude that when trying to find out if the drug TriUmpsal prevents aids against those who don't take it and my data showed that those who took the drug TriUmpsal were three times less likely to get aids while those who didn't take the drug were three times more likely to get aids. Based on the research of a new preventative aids drugs and if it is effective among drug users, we have found the vaccine to be effective in preventing aids. Also those who recieved the placebo were more likely to get aids three times more likely . The clinical test trial allowed us to reject the Null hypothesis.
